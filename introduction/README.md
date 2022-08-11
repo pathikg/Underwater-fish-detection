@@ -10,3 +10,7 @@ Here are some resources which I found useful to understand the same :
 * https://viso.ai/deep-learning/object-detection/
 * https://www.youtube.com/watch?v=NM6lrxy0bxs
 * https://www.youtube.com/watch?v=2hAiJe8ITsE
+
+As a part of this project I'll be creating an object detection model which can detect fish species in the sea which may help us to monitor the aquatic life  
+
+Here's link to the dataset which I'll be using for this task : https://public.roboflow.com/object-detection/fish
