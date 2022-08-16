@@ -5,3 +5,4 @@ As a part of [#project-of-the-week](https://github.com/DataTalksClub/project-of-
 * [Introduction](./introduction)
 * [YoloV7](./YoloV7)
 * [Demo App](./app)
+* [Docker instructions](./Docker App)
